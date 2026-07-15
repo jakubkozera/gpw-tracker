@@ -1,0 +1,2032 @@
+[
+  {
+    "id": "248",
+    "code": "06N",
+    "name": "06N (06MAGNA)"
+  },
+  {
+    "id": "324",
+    "code": "OCTAVA",
+    "name": "08N (08OCTAVA)"
+  },
+  {
+    "id": "3567",
+    "code": "11-BIT-STUDIOS",
+    "name": "11B (11BIT)"
+  },
+  {
+    "id": "12193",
+    "code": "ATAL",
+    "name": "1AT (ATAL)"
+  },
+  {
+    "id": "6005",
+    "code": "3RG",
+    "name": "3RG (3RGAMES)"
+  },
+  {
+    "id": "34320",
+    "code": "4MS",
+    "name": "4MS (4MASS)"
+  },
+  {
+    "id": "77",
+    "code": "AAT",
+    "name": "AAT (ALTA)"
+  },
+  {
+    "id": "184",
+    "code": "ABE",
+    "name": "ABE (ABPL)"
+  },
+  {
+    "id": "340",
+    "code": "ASSECO-BUSINESS-SOLUTIONS",
+    "name": "ABS (ASSECOBS)"
+  },
+  {
+    "id": "4195",
+    "code": "ACG",
+    "name": "ACG (ACAUTOGAZ)"
+  },
+  {
+    "id": "69",
+    "code": "ASSECO-POLAND",
+    "name": "ACP (ASSECOPOL)"
+  },
+  {
+    "id": "339",
+    "code": "ACTION",
+    "name": "ACT (ACTION)"
+  },
+  {
+    "id": "11851",
+    "code": "ADIUVO-INVESTMENT",
+    "name": "ADV (ADIUVO)"
+  },
+  {
+    "id": "8535",
+    "code": "ADX",
+    "name": "ADX (ADATEX)"
+  },
+  {
+    "id": "127",
+    "code": "AGORA",
+    "name": "AGO (AGORA)"
+  },
+  {
+    "id": "3437",
+    "code": "AGROTON",
+    "name": "AGT (AGROTON)"
+  },
+  {
+    "id": "50511",
+    "code": "ALE",
+    "name": "ALE (ALLEGRO)"
+  },
+  {
+    "id": "7178",
+    "code": "ALG",
+    "name": "ALG (AIGAMES)"
+  },
+  {
+    "id": "10112",
+    "code": "ALTUS",
+    "name": "ALI (ALTUS)"
+  },
+  {
+    "id": "4395",
+    "code": "ALL",
+    "name": "ALL (AILLERON)"
+  },
+  {
+    "id": "7065",
+    "code": "ALIOR-BANK",
+    "name": "ALR (ALIOR)"
+  },
+  {
+    "id": "221",
+    "code": "AMBRA",
+    "name": "AMB (AMBRA)"
+  },
+  {
+    "id": "114",
+    "code": "AMICA",
+    "name": "AMC (AMICA)"
+  },
+  {
+    "id": "52791",
+    "code": "ANR",
+    "name": "ANR (ANSWEAR)"
+  },
+  {
+    "id": "8495",
+    "code": "APS-ENERGIA",
+    "name": "APE (APSENERGY)"
+  },
+  {
+    "id": "270",
+    "code": "APL",
+    "name": "APL (AMPLI)"
+  },
+  {
+    "id": "397",
+    "code": "APLISENS",
+    "name": "APN (APLISENS)"
+  },
+  {
+    "id": "14270",
+    "code": "APR",
+    "name": "APR (AUTOPARTN)"
+  },
+  {
+    "id": "25",
+    "code": "APATOR",
+    "name": "APT (APATOR)"
+  },
+  {
+    "id": "14087",
+    "code": "ARH",
+    "name": "ARH (ARCHICOM)"
+  },
+  {
+    "id": "111333",
+    "code": "ARL",
+    "name": "ARL (ARLEN)"
+  },
+  {
+    "id": "15250",
+    "code": "ARTIFEX",
+    "name": "ART (ARTIFEX)"
+  },
+  {
+    "id": "96",
+    "code": "ASBISC",
+    "name": "ASB (ASBIS)"
+  },
+  {
+    "id": "38",
+    "code": "ASSECO-SOUTH-EASTERN-EUROPE",
+    "name": "ASE (ASSECOSEE)"
+  },
+  {
+    "id": "7505",
+    "code": "ASM-GROUP",
+    "name": "ASM (ASMGROUP)"
+  },
+  {
+    "id": "90",
+    "code": "ASTARTA",
+    "name": "AST (ASTARTA)"
+  },
+  {
+    "id": "237",
+    "code": "ARCTIC-PAPER",
+    "name": "ATC (ARCTIC)"
+  },
+  {
+    "id": "6256",
+    "code": "ATENDE",
+    "name": "ATD (ATENDE)"
+  },
+  {
+    "id": "30",
+    "code": "ATM-GRUPA",
+    "name": "ATG (ATMGRUPA)"
+  },
+  {
+    "id": "468",
+    "code": "ATLANTA-POLAND",
+    "name": "ATP (ATLANTAPL)"
+  },
+  {
+    "id": "269",
+    "code": "ATREM",
+    "name": "ATR (ATREM)"
+  },
+  {
+    "id": "108867",
+    "code": "ATS",
+    "name": "ATS (ATLANTIS)"
+  },
+  {
+    "id": "28",
+    "code": "ATT",
+    "name": "ATT (GRUPAAZOTY)"
+  },
+  {
+    "id": "10801",
+    "code": "AIRWAY-MEDIX",
+    "name": "AWM (AIRWAY)"
+  },
+  {
+    "id": "95",
+    "code": "BBI-DEVELOPMENT",
+    "name": "BBD (BBIDEV)"
+  },
+  {
+    "id": "37070",
+    "code": "BBT",
+    "name": "BBT (BOOMBIT)"
+  },
+  {
+    "id": "220",
+    "code": "BETACOM",
+    "name": "BCM (BETACOM)"
+  },
+  {
+    "id": "65017",
+    "code": "BCS",
+    "name": "BCS (BIGCHEESE)"
+  },
+  {
+    "id": "64912",
+    "code": "BCX",
+    "name": "BCX (BIOCELTIX)"
+  },
+  {
+    "id": "315",
+    "code": "BUDIMEX",
+    "name": "BDX (BUDIMEX)"
+  },
+  {
+    "id": "3798",
+    "code": "BENEFIT-SYSTEMS",
+    "name": "BFT (BENEFIT)"
+  },
+  {
+    "id": "107",
+    "code": "BANK-HANDLOWY",
+    "name": "BHW (HANDLOWY)"
+  },
+  {
+    "id": "53",
+    "code": "BIOTON",
+    "name": "BIO (BIOTON)"
+  },
+  {
+    "id": "11553",
+    "code": "BIO-PLANET",
+    "name": "BIP (BIOPLANET)"
+  },
+  {
+    "id": "3955",
+    "code": "BLOOBER-TEAM",
+    "name": "BLO (BLOOBER)"
+  },
+  {
+    "id": "222",
+    "code": "BUMECH",
+    "name": "BMC (BUMECH)"
+  },
+  {
+    "id": "3260",
+    "code": "BIOMAXIMA",
+    "name": "BMX (BIOMAXIMA)"
+  },
+  {
+    "id": "3856",
+    "code": "BNP",
+    "name": "BNP (BNPPPL)"
+  },
+  {
+    "id": "154",
+    "code": "BANK-OCHRONY-SRODOWISKA",
+    "name": "BOS"
+  },
+  {
+    "id": "5919",
+    "code": "BOWIM",
+    "name": "BOW (BOWIM)"
+  },
+  {
+    "id": "74",
+    "code": "BORYSZEW",
+    "name": "BRS (BORYSZEW)"
+  },
+  {
+    "id": "424",
+    "code": "BEST",
+    "name": "BST (BEST)"
+  },
+  {
+    "id": "16884",
+    "code": "CAP",
+    "name": "CAP (CAPITEA)"
+  },
+  {
+    "id": "216",
+    "code": "INTER-CARS",
+    "name": "CAR (INTERCARS)"
+  },
+  {
+    "id": "62053",
+    "code": "CAV",
+    "name": "CAV (CAVATINA)"
+  },
+  {
+    "id": "17926",
+    "code": "CBF",
+    "name": "CBF (CYBERFLKS)"
+  },
+  {
+    "id": "219",
+    "code": "CLEAN-CARBON-ENERGY",
+    "name": "CCE (CCENERGY)"
+  },
+  {
+    "id": "10731",
+    "code": "CDL",
+    "name": "CDL (CDRL)"
+  },
+  {
+    "id": "66",
+    "code": "CD-PROJEKT",
+    "name": "CDR (CDPROJEKT)"
+  },
+  {
+    "id": "123",
+    "code": "CEZ",
+    "name": "CEZ"
+  },
+  {
+    "id": "499",
+    "code": "CFI-HOLDING",
+    "name": "CFI"
+  },
+  {
+    "id": "228",
+    "code": "CI-GAMES",
+    "name": "CIG (CIGAMES)"
+  },
+  {
+    "id": "3816",
+    "code": "COLUMBUS-CAPITAL",
+    "name": "CLC (COLUMBUS)"
+  },
+  {
+    "id": "6217",
+    "code": "CLOUD-TECHNOLOGIES",
+    "name": "CLD (CLOUD)"
+  },
+  {
+    "id": "4153",
+    "code": "COAL-ENERGY",
+    "name": "CLE (COALENERG)"
+  },
+  {
+    "id": "15373",
+    "code": "CLNPHARMA",
+    "name": "CLN (CLNPHARMA)"
+  },
+  {
+    "id": "354",
+    "code": "COMP",
+    "name": "CMP (COMP)"
+  },
+  {
+    "id": "195",
+    "code": "COGNOR",
+    "name": "COG (COGNOR)"
+  },
+  {
+    "id": "376",
+    "code": "CAPITAL-PARTNERS",
+    "name": "CPA (CAPITAL)"
+  },
+  {
+    "id": "3526",
+    "code": "CPD",
+    "name": "CPD (CELTIC)"
+  },
+  {
+    "id": "29196",
+    "code": "CPI",
+    "name": "CPI (CPIEUROPE)"
+  },
+  {
+    "id": "4499",
+    "code": "COMPERIA-PL",
+    "name": "CPL (COMPERIA)"
+  },
+  {
+    "id": "266",
+    "code": "CPR",
+    "name": "CPR (COMPREMUM)"
+  },
+  {
+    "id": "132",
+    "code": "CYFROWY-POLSAT",
+    "name": "CPS (CYFRPLSAT)"
+  },
+  {
+    "id": "63850",
+    "code": "CRI",
+    "name": "CRI (CREOTECH)"
+  },
+  {
+    "id": "126073",
+    "code": "CRIA",
+    "name": "CRIA (CREOTECH-PDA)"
+  },
+  {
+    "id": "30285",
+    "code": "CRJ",
+    "name": "CRJ (CREEPYJAR)"
+  },
+  {
+    "id": "277",
+    "code": "CORMAY",
+    "name": "CRM (CORMAY)"
+  },
+  {
+    "id": "123688",
+    "code": "CRQ",
+    "name": "CRQ (CRQUANTUM)"
+  },
+  {
+    "id": "5715",
+    "code": "CASPAR-ASSET-MANAGEMENT",
+    "name": "CSR (CASPAR)"
+  },
+  {
+    "id": "12876",
+    "code": "CTS",
+    "name": "CTS (CITYSERV)"
+  },
+  {
+    "id": "57058",
+    "code": "CTX",
+    "name": "CTX (CAPTORTX)"
+  },
+  {
+    "id": "7406",
+    "code": "CZERWONA-TOREBKA",
+    "name": "CZT (CZTOREBKA)"
+  },
+  {
+    "id": "56219",
+    "code": "DAD",
+    "name": "DAD (DADELO)"
+  },
+  {
+    "id": "6462",
+    "code": "DAT",
+    "name": "DAT (DATAWALK)"
+  },
+  {
+    "id": "390",
+    "code": "DEBICA",
+    "name": "DBC (DEBICA)"
+  },
+  {
+    "id": "37558",
+    "code": "DBE",
+    "name": "DBE (DBENERGY)"
+  },
+  {
+    "id": "210",
+    "code": "DECORA",
+    "name": "DCR (DECORA)"
+  },
+  {
+    "id": "11258",
+    "code": "DEKPOL",
+    "name": "DEK (DEKPOL)"
+  },
+  {
+    "id": "442",
+    "code": "DELKO",
+    "name": "DEL (DELKO)"
+  },
+  {
+    "id": "316",
+    "code": "DGA",
+    "name": "DGA"
+  },
+  {
+    "id": "58993",
+    "code": "DGE",
+    "name": "DGE (DRAGOENT)"
+  },
+  {
+    "id": "104388",
+    "code": "DIA",
+    "name": "DIA (DIAG)"
+  },
+  {
+    "id": "3517",
+    "code": "DIG",
+    "name": "DIG (DIGITANET)"
+  },
+  {
+    "id": "8505",
+    "code": "DMG",
+    "name": "DMG (DMGROUP)"
+  },
+  {
+    "id": "16366",
+    "code": "DNP",
+    "name": "DNP (DINOPL)"
+  },
+  {
+    "id": "317",
+    "code": "DOM-DEVELOPMENT",
+    "name": "DOM (DOMDEV)"
+  },
+  {
+    "id": "3879",
+    "code": "DTR",
+    "name": "DTR (DIGITREE)"
+  },
+  {
+    "id": "327",
+    "code": "DVL",
+    "name": "DVL (DEVELIA)"
+  },
+  {
+    "id": "3904",
+    "code": "ESOTIQ-HENDERSON",
+    "name": "EAH (ESOTIQ)"
+  },
+  {
+    "id": "32034",
+    "code": "EAT",
+    "name": "EAT (AMREST)"
+  },
+  {
+    "id": "109",
+    "code": "EBP",
+    "name": "EBP (ERSTEPL)"
+  },
+  {
+    "id": "463",
+    "code": "ELEKTROCIEPLOWNIA-BEDZIN",
+    "name": "ECB (ECBSA)"
+  },
+  {
+    "id": "358",
+    "code": "ECHO-INVESTMENT",
+    "name": "ECH (ECHO)"
+  },
+  {
+    "id": "3519",
+    "code": "ED-INVEST",
+    "name": "EDI (EDINVEST)"
+  },
+  {
+    "id": "2806",
+    "code": "EKO-EXPORT",
+    "name": "EEX (EKOEXPORT)"
+  },
+  {
+    "id": "79",
+    "code": "EFEKT",
+    "name": "EFK (EFEKT)"
+  },
+  {
+    "id": "5797",
+    "code": "EUROHOLD-BULGARIA",
+    "name": "EHG (EUROHOLD)"
+  },
+  {
+    "id": "109473",
+    "code": "EKP",
+    "name": "EKP (ELKOP)"
+  },
+  {
+    "id": "403",
+    "code": "ELEKTROTIM",
+    "name": "ELT (ELEKTROTI)"
+  },
+  {
+    "id": "111",
+    "code": "ENA",
+    "name": "ENA (ENEA)"
+  },
+  {
+    "id": "3999",
+    "code": "ENEL-MED",
+    "name": "ENE (ENELMED)"
+  },
+  {
+    "id": "8909",
+    "code": "ENERGA",
+    "name": "ENG (ENERGA)"
+  },
+  {
+    "id": "314",
+    "code": "ENERGOINSTAL",
+    "name": "ENI (ENERGOINS)"
+  },
+  {
+    "id": "42",
+    "code": "ENERGOAPARATURA",
+    "name": "ENP (ENAP)"
+  },
+  {
+    "id": "13397",
+    "code": "ENT",
+    "name": "ENT (ENTER)"
+  },
+  {
+    "id": "87144",
+    "code": "EQU",
+    "name": "EQU (EQUNICO)"
+  },
+  {
+    "id": "342",
+    "code": "ERBUD",
+    "name": "ERB (ERBUD)"
+  },
+  {
+    "id": "394",
+    "code": "ERG",
+    "name": "ERG"
+  },
+  {
+    "id": "3739",
+    "code": "EST",
+    "name": "EST (ESTAR)"
+  },
+  {
+    "id": "401",
+    "code": "EUROTEL",
+    "name": "ETL (EUROTEL)"
+  },
+  {
+    "id": "3546",
+    "code": "EUROPEJSKIE-CENTRUM-ODSZKODOWAN",
+    "name": "EUC (EUCO)"
+  },
+  {
+    "id": "104",
+    "code": "EUROCASH",
+    "name": "EUR (EUROCASH)"
+  },
+  {
+    "id": "326",
+    "code": "FAB",
+    "name": "FAB (FABRITY)"
+  },
+  {
+    "id": "8000",
+    "code": "FEERUM",
+    "name": "FEE (FEERUM)"
+  },
+  {
+    "id": "47",
+    "code": "FAST-FINANCE",
+    "name": "FFI (FASTFIN)"
+  },
+  {
+    "id": "336",
+    "code": "FHB",
+    "name": "FHB (FOODHUB)"
+  },
+  {
+    "id": "2999",
+    "code": "FMG",
+    "name": "FMG"
+  },
+  {
+    "id": "117675",
+    "code": "FON",
+    "name": "FON"
+  },
+  {
+    "id": "451",
+    "code": "FERRO",
+    "name": "FRO (FERRO)"
+  },
+  {
+    "id": "322",
+    "code": "FASING",
+    "name": "FSG (FASING)"
+  },
+  {
+    "id": "268",
+    "code": "FORTE",
+    "name": "FTE (FORTE)"
+  },
+  {
+    "id": "47979",
+    "code": "GIF",
+    "name": "GIF (GAMFACTOR)"
+  },
+  {
+    "id": "24",
+    "code": "GKI",
+    "name": "GKI (IMMOBILE)"
+  },
+  {
+    "id": "56257",
+    "code": "GMT",
+    "name": "GMT (GENOMTEC)"
+  },
+  {
+    "id": "3970",
+    "code": "GNS",
+    "name": "GNS (NIEWIADOW)"
+  },
+  {
+    "id": "65",
+    "code": "GOBARTO",
+    "name": "GOB (GOBARTO)"
+  },
+  {
+    "id": "44989",
+    "code": "GOP",
+    "name": "GOP (GAMEOPS)"
+  },
+  {
+    "id": "65815",
+    "code": "GPP",
+    "name": "GPP (GRUPRACUJ)"
+  },
+  {
+    "id": "3439",
+    "code": "GPW",
+    "name": "GPW"
+  },
+  {
+    "id": "3959",
+    "code": "GRODNO",
+    "name": "GRN (GRODNO)"
+  },
+  {
+    "id": "66265",
+    "code": "GRX",
+    "name": "GRX (GREENX)"
+  },
+  {
+    "id": "55",
+    "code": "GTC",
+    "name": "GTC"
+  },
+  {
+    "id": "125",
+    "code": "GETIN-HOLDING",
+    "name": "GTN (GETIN)"
+  },
+  {
+    "id": "2252",
+    "code": "GVT",
+    "name": "GVT (VIRTUS)"
+  },
+  {
+    "id": "325",
+    "code": "HYDROTOR",
+    "name": "HDR (HYDROTOR)"
+  },
+  {
+    "id": "267",
+    "code": "HELIO",
+    "name": "HEL (HELIO)"
+  },
+  {
+    "id": "139",
+    "code": "HARPER-HYGIENICS",
+    "name": "HRP (HARPER)"
+  },
+  {
+    "id": "37",
+    "code": "HERKULES",
+    "name": "HRS (HERKULES)"
+  },
+  {
+    "id": "55356",
+    "code": "HUG",
+    "name": "HUG (HUUUGE)"
+  },
+  {
+    "id": "2967",
+    "code": "IBSM",
+    "name": "IBS (IBSM)"
+  },
+  {
+    "id": "31995",
+    "code": "ICE",
+    "name": "ICE (MEDINICE)"
+  },
+  {
+    "id": "203",
+    "code": "IDG",
+    "name": "IDG (INDYGO)"
+  },
+  {
+    "id": "124",
+    "code": "IDM",
+    "name": "IDM (IDMSA)"
+  },
+  {
+    "id": "94290",
+    "code": "IFC",
+    "name": "IFC (IFCAPITAL)"
+  },
+  {
+    "id": "54",
+    "code": "IFI",
+    "name": "IFI (IFIRMA)"
+  },
+  {
+    "id": "72106",
+    "code": "IFR",
+    "name": "IFR (IFSA)"
+  },
+  {
+    "id": "3813",
+    "code": "INDUSTRIAL-MILK-COMPANY",
+    "name": "IMC (IMCOMPANY)"
+  },
+  {
+    "id": "321",
+    "code": "IMP",
+    "name": "IMP (IMPERIO)"
+  },
+  {
+    "id": "5883",
+    "code": "IMS",
+    "name": "IMS"
+  },
+  {
+    "id": "312",
+    "code": "INC",
+    "name": "INC"
+  },
+  {
+    "id": "119",
+    "code": "ING-BANK-SLASKI",
+    "name": "ING (INGBSK)"
+  },
+  {
+    "id": "29",
+    "code": "INSTAL-KRAKOW",
+    "name": "INK (INSTALKRK)"
+  },
+  {
+    "id": "386",
+    "code": "INTROL",
+    "name": "INL (INTROL)"
+  },
+  {
+    "id": "3749",
+    "code": "INPRO",
+    "name": "INP (INPRO)"
+  },
+  {
+    "id": "257",
+    "code": "IPOPEMA",
+    "name": "IPE (IPOPEMA)"
+  },
+  {
+    "id": "129",
+    "code": "INTERSPPL",
+    "name": "IPO (INTERSPPL)"
+  },
+  {
+    "id": "7070",
+    "code": "INTER-RAO-LIETUVA",
+    "name": "IRL (INTERAOLT)"
+  },
+  {
+    "id": "3457",
+    "code": "INTERBUD-LUBLIN",
+    "name": "ITB (INTERBUD)"
+  },
+  {
+    "id": "5864",
+    "code": "IZOBLOK",
+    "name": "IZB (IZOBLOK)"
+  },
+  {
+    "id": "81",
+    "code": "IZOLACJA-JAROCIN",
+    "name": "IZO (IZOLACJA)"
+  },
+  {
+    "id": "3617",
+    "code": "IZOSTAL",
+    "name": "IZS (IZOSTAL)"
+  },
+  {
+    "id": "7037",
+    "code": "JRH",
+    "name": "JRH"
+  },
+  {
+    "id": "3972",
+    "code": "JSW-JASTRZEBSKA-SPOLKA-WEGLOWA",
+    "name": "JSW"
+  },
+  {
+    "id": "9990",
+    "code": "JWW-INVEST",
+    "name": "JWW (JWWINVEST)"
+  },
+  {
+    "id": "181",
+    "code": "KRAKCHEMIA",
+    "name": "KCH (KRAKCHEM)"
+  },
+  {
+    "id": "310",
+    "code": "KCI",
+    "name": "KCI"
+  },
+  {
+    "id": "6447",
+    "code": "KDM-SHIPPING-PUBLIC-LIMITED",
+    "name": "KDM (KDMSHIPNG)"
+  },
+  {
+    "id": "116",
+    "code": "KERNEL",
+    "name": "KER (KERNEL)"
+  },
+  {
+    "id": "133",
+    "code": "KGHM",
+    "name": "KGH (KGHM)"
+  },
+  {
+    "id": "13526",
+    "code": "KGL",
+    "name": "KGL"
+  },
+  {
+    "id": "292",
+    "code": "KOGENERACJA",
+    "name": "KGN (KOGENERA)"
+  },
+  {
+    "id": "103",
+    "code": "KOMPAP",
+    "name": "KMP (KOMPAP)"
+  },
+  {
+    "id": "202",
+    "code": "KOMPUTRONIK",
+    "name": "KOM (KOMPUTRON)"
+  },
+  {
+    "id": "523",
+    "code": "KPD",
+    "name": "KPD (KPPD)"
+  },
+  {
+    "id": "3858",
+    "code": "KINO-POLSKA-TV",
+    "name": "KPL (KINOPOL)"
+  },
+  {
+    "id": "6124",
+    "code": "KRKA",
+    "name": "KRK (KRKA)"
+  },
+  {
+    "id": "3827",
+    "code": "KRUK",
+    "name": "KRU (KRUK)"
+  },
+  {
+    "id": "3818",
+    "code": "KSG-AGRO",
+    "name": "KSG (KSGAGRO)"
+  },
+  {
+    "id": "58",
+    "code": "KETY",
+    "name": "KTY (KETY)"
+  },
+  {
+    "id": "13188",
+    "code": "KVT",
+    "name": "KVT (KRVITAMIN)"
+  },
+  {
+    "id": "3809",
+    "code": "LIBET",
+    "name": "LBT (LIBET)"
+  },
+  {
+    "id": "105",
+    "code": "LUBAWA",
+    "name": "LBW (LUBAWA)"
+  },
+  {
+    "id": "149",
+    "code": "LENA-LIGHTING",
+    "name": "LEN (LENA)"
+  },
+  {
+    "id": "40",
+    "code": "LES",
+    "name": "LES (LESS)"
+  },
+  {
+    "id": "13187",
+    "code": "LKD",
+    "name": "LKD (LOKUM)"
+  },
+  {
+    "id": "125797",
+    "code": "LMU",
+    "name": "LMU (LMCU)"
+  },
+  {
+    "id": "293",
+    "code": "LPP",
+    "name": "LPP"
+  },
+  {
+    "id": "318",
+    "code": "LRQ",
+    "name": "LRQ (LARQ)"
+  },
+  {
+    "id": "307",
+    "code": "LSI-SOFTWARE",
+    "name": "LSI (LSISOFT)"
+  },
+  {
+    "id": "171",
+    "code": "LENTEX",
+    "name": "LTX (LENTEX)"
+  },
+  {
+    "id": "46",
+    "code": "BOGDANKA",
+    "name": "LWB (BOGDANKA)"
+  },
+  {
+    "id": "3284",
+    "code": "MABION",
+    "name": "MAB (MABION)"
+  },
+  {
+    "id": "27",
+    "code": "MAKARONY-POLSKIE",
+    "name": "MAK (MAKARONPL)"
+  },
+  {
+    "id": "262",
+    "code": "MAN",
+    "name": "MAN (MANYDEV)"
+  },
+  {
+    "id": "88",
+    "code": "MBANK",
+    "name": "MBK (MBANK)"
+  },
+  {
+    "id": "3285",
+    "code": "MBR",
+    "name": "MBR (MOBRUK)"
+  },
+  {
+    "id": "438",
+    "code": "MBW",
+    "name": "MBW (MBWS)"
+  },
+  {
+    "id": "75",
+    "code": "MCI",
+    "name": "MCI"
+  },
+  {
+    "id": "76",
+    "code": "MERCOR",
+    "name": "MCR"
+  },
+  {
+    "id": "4464",
+    "code": "MDG",
+    "name": "MDG (MEDICALG)"
+  },
+  {
+    "id": "112",
+    "code": "MDI",
+    "name": "MDI (MDIENERGIA)"
+  },
+  {
+    "id": "348",
+    "code": "MDV",
+    "name": "MDV (MODIVO)"
+  },
+  {
+    "id": "3848",
+    "code": "MEGARON",
+    "name": "MEG (MEGARON)"
+  },
+  {
+    "id": "6255",
+    "code": "MEX-POLSKA",
+    "name": "MEX (MEXPOLSKA)"
+  },
+  {
+    "id": "9111",
+    "code": "MFO",
+    "name": "MFO"
+  },
+  {
+    "id": "264",
+    "code": "MGT",
+    "name": "MGT (MANGATA)"
+  },
+  {
+    "id": "91",
+    "code": "BANK-MILLENNIUM",
+    "name": "MIL (MILLENNIUM)"
+  },
+  {
+    "id": "160",
+    "code": "MIRACULUM",
+    "name": "MIR (MIRACULUM)"
+  },
+  {
+    "id": "8785",
+    "code": "MLP-GROUP",
+    "name": "MLG (MLPGROUP)"
+  },
+  {
+    "id": "3469",
+    "code": "MLK",
+    "name": "MLK (MILKILAND)"
+  },
+  {
+    "id": "29184",
+    "code": "MLS",
+    "name": "MLS (MLSYSTEM)"
+  },
+  {
+    "id": "232",
+    "code": "MENNICA-POLSKA",
+    "name": "MNC (MENNICA)"
+  },
+  {
+    "id": "19665",
+    "code": "MOC",
+    "name": "MOC (MOLECURE)"
+  },
+  {
+    "id": "443",
+    "code": "MOJ",
+    "name": "MOJ"
+  },
+  {
+    "id": "295",
+    "code": "MOL-MAGYAR-OLAJ",
+    "name": "MOL"
+  },
+  {
+    "id": "213",
+    "code": "MONNARI-TRADE",
+    "name": "MON (MONNARI)"
+  },
+  {
+    "id": "33867",
+    "code": "MOV",
+    "name": "MOV (MOVIEGAMES)"
+  },
+  {
+    "id": "98",
+    "code": "MIRBUD",
+    "name": "MRB (MIRBUD)"
+  },
+  {
+    "id": "9137",
+    "code": "MERCATOR",
+    "name": "MRC (MERCATOR)"
+  },
+  {
+    "id": "35",
+    "code": "MOSTOSTAL-PLOCK",
+    "name": "MSP (MOSTALPLC)"
+  },
+  {
+    "id": "445",
+    "code": "MOSTOSTAL-WARSZAWA",
+    "name": "MSW (MOSTALWAR)"
+  },
+  {
+    "id": "251",
+    "code": "MOSTOSTAL-ZABRZE",
+    "name": "MSZ (MOSTALZAB)"
+  },
+  {
+    "id": "65809",
+    "code": "MUR",
+    "name": "MUR (MURAPOL)"
+  },
+  {
+    "id": "17903",
+    "code": "MVP",
+    "name": "MVP (MARVIPOL)"
+  },
+  {
+    "id": "172",
+    "code": "MW-TRADE",
+    "name": "MWT (MWTRADE)"
+  },
+  {
+    "id": "16845",
+    "code": "MXC",
+    "name": "MXC (MAXCOM)"
+  },
+  {
+    "id": "52",
+    "code": "MUZA",
+    "name": "MZA (MUZA)"
+  },
+  {
+    "id": "70285",
+    "code": "NCL",
+    "name": "NCL (NOCTILUCA)"
+  },
+  {
+    "id": "371",
+    "code": "NEUCA",
+    "name": "NEU (NEUCA)"
+  },
+  {
+    "id": "17909",
+    "code": "NNG",
+    "name": "NNG (NANOGROUP)"
+  },
+  {
+    "id": "2248",
+    "code": "NTC",
+    "name": "NTC (NTCAPITAL)"
+  },
+  {
+    "id": "166",
+    "code": "NTT",
+    "name": "NTT (NTTSYSTEM)"
+  },
+  {
+    "id": "19435",
+    "code": "NTU",
+    "name": "NTU (NOVATURAS)"
+  },
+  {
+    "id": "250",
+    "code": "PANOVA",
+    "name": "NVA (PANOVA)"
+  },
+  {
+    "id": "33",
+    "code": "NVG",
+    "name": "NVG (NOVAVISGR)"
+  },
+  {
+    "id": "131",
+    "code": "NOVITA",
+    "name": "NVT (NOVITA)"
+  },
+  {
+    "id": "8879",
+    "code": "NEWAG",
+    "name": "NWG (NEWAG)"
+  },
+  {
+    "id": "10695",
+    "code": "NXG",
+    "name": "NXG (NEXITY)"
+  },
+  {
+    "id": "335",
+    "code": "ORZEL-BIALY",
+    "name": "OBL (ORZBIALY)"
+  },
+  {
+    "id": "144",
+    "code": "ODLEWNIE-POLSKIE",
+    "name": "ODL (ODLEWNIE)"
+  },
+  {
+    "id": "6558",
+    "code": "OML",
+    "name": "OML (ONEMORE)"
+  },
+  {
+    "id": "61339",
+    "code": "OND",
+    "name": "OND (ONDE)"
+  },
+  {
+    "id": "67",
+    "code": "ONO",
+    "name": "ONO (ONESANO)"
+  },
+  {
+    "id": "178",
+    "code": "OPG",
+    "name": "OPG (ORCOGROUP)"
+  },
+  {
+    "id": "57",
+    "code": "ORANGE",
+    "name": "OPL (ORANGEPL)"
+  },
+  {
+    "id": "3387",
+    "code": "OPTEAM",
+    "name": "OPM (OPTEAM)"
+  },
+  {
+    "id": "308",
+    "code": "OPONEO-PL",
+    "name": "OPN (OPONEO.PL)"
+  },
+  {
+    "id": "3403",
+    "code": "OTMUCHOW",
+    "name": "OTM (OTMUCHOW)"
+  },
+  {
+    "id": "8545",
+    "code": "OT-LOGISTICS",
+    "name": "OTS (OTLOG)"
+  },
+  {
+    "id": "29538",
+    "code": "PAS",
+    "name": "PAS (PASSUS)"
+  },
+  {
+    "id": "233",
+    "code": "PATENTUS",
+    "name": "PAT (PATENTUS)"
+  },
+  {
+    "id": "135",
+    "code": "PBS-FINANSE",
+    "name": "PBF (PBSFINANSE)"
+  },
+  {
+    "id": "93",
+    "code": "PBG",
+    "name": "PBG"
+  },
+  {
+    "id": "12054",
+    "code": "PEKABEX",
+    "name": "PBX (PEKABEX)"
+  },
+  {
+    "id": "214",
+    "code": "POLICE",
+    "name": "PCE (POLICE)"
+  },
+  {
+    "id": "52287",
+    "code": "PCF",
+    "name": "PCF (PCFGROUP)"
+  },
+  {
+    "id": "59839",
+    "code": "PCO",
+    "name": "PCO (PEPCO)"
+  },
+  {
+    "id": "9820",
+    "code": "ROKITA",
+    "name": "PCR (PCCROKITA)"
+  },
+  {
+    "id": "6874",
+    "code": "PCC-EXOL",
+    "name": "PCX (PCCEXOL)"
+  },
+  {
+    "id": "8031",
+    "code": "PHOTON",
+    "name": "PEN (PHOTON)"
+  },
+  {
+    "id": "43",
+    "code": "PEKAO",
+    "name": "PEO (PEKAO)"
+  },
+  {
+    "id": "361",
+    "code": "POLENERGIA",
+    "name": "PEP"
+  },
+  {
+    "id": "106",
+    "code": "PGE",
+    "name": "PGE"
+  },
+  {
+    "id": "164",
+    "code": "PGM",
+    "name": "PGM (PMPG)"
+  },
+  {
+    "id": "256",
+    "code": "PGV",
+    "name": "PGV (PGFGROUP)"
+  },
+  {
+    "id": "7384",
+    "code": "POLSKI-HOLDING-NIERUCHOMOSCI",
+    "name": "PHN"
+  },
+  {
+    "id": "2452",
+    "code": "PHARMENA",
+    "name": "PHR (PHARMENA)"
+  },
+  {
+    "id": "196",
+    "code": "PROJPRZEM",
+    "name": "PJP (PJPMAKRUM)"
+  },
+  {
+    "id": "118",
+    "code": "ORLEN",
+    "name": "PKN (PKNORLEN)"
+  },
+  {
+    "id": "99",
+    "code": "PKO",
+    "name": "PKO (PKOBP)"
+  },
+  {
+    "id": "8789",
+    "code": "PKPCARGO",
+    "name": "PKP (PKPCARGO)"
+  },
+  {
+    "id": "15028",
+    "code": "PLAYWAY",
+    "name": "PLW (PLAYWAY)"
+  },
+  {
+    "id": "14470",
+    "code": "PLAZACNTR",
+    "name": "PLZ (PLAZACNTR)"
+  },
+  {
+    "id": "142",
+    "code": "PRIMA-MODA",
+    "name": "PMA (PRIMAMODA)"
+  },
+  {
+    "id": "151",
+    "code": "PEPEES",
+    "name": "PPS (PEPEES)"
+  },
+  {
+    "id": "380",
+    "code": "PRI",
+    "name": "PRI (PRAGMAINK)"
+  },
+  {
+    "id": "83",
+    "code": "PROCHEM",
+    "name": "PRM (PROCHEM)"
+  },
+  {
+    "id": "146",
+    "code": "PROTEKTOR",
+    "name": "PRT (PROTEKTOR)"
+  },
+  {
+    "id": "65803",
+    "code": "PTG",
+    "name": "PTG (POLTREG)"
+  },
+  {
+    "id": "7695",
+    "code": "PTWP",
+    "name": "PTW (PTWP)"
+  },
+  {
+    "id": "33831",
+    "code": "PUR",
+    "name": "PUR (PURE)"
+  },
+  {
+    "id": "10461",
+    "code": "POLWAX",
+    "name": "PWX (POLWAX)"
+  },
+  {
+    "id": "136",
+    "code": "POLIMEX",
+    "name": "PXM (POLIMEXMS)"
+  },
+  {
+    "id": "41",
+    "code": "PZU",
+    "name": "PZU"
+  },
+  {
+    "id": "89013",
+    "code": "QNA",
+    "name": "QNA (QNATECHNO)"
+  },
+  {
+    "id": "480",
+    "code": "QUANTUM-SOFTWARE",
+    "name": "QNT (QUANTUM)"
+  },
+  {
+    "id": "2464",
+    "code": "QUERCUS",
+    "name": "QRS (QUERCUS)"
+  },
+  {
+    "id": "5903",
+    "code": "QUART-DEVELOPMENT",
+    "name": "QRT (QUART)"
+  },
+  {
+    "id": "50",
+    "code": "RAFAMET",
+    "name": "RAF (RAFAMET)"
+  },
+  {
+    "id": "287",
+    "code": "RAINBOW-TOURS",
+    "name": "RBW (RAINBOW)"
+  },
+  {
+    "id": "279",
+    "code": "REDAN",
+    "name": "RDN (REDAN)"
+  },
+  {
+    "id": "89",
+    "code": "REGNON",
+    "name": "REG (REGNON)"
+  },
+  {
+    "id": "126826",
+    "code": "REX",
+    "name": "REX"
+  },
+  {
+    "id": "230",
+    "code": "REINHOLD",
+    "name": "RHD (REINHOLD)"
+  },
+  {
+    "id": "352",
+    "code": "RELPOL",
+    "name": "RLP (RELPOL)"
+  },
+  {
+    "id": "271",
+    "code": "REMAK",
+    "name": "RMK (REMAK)"
+  },
+  {
+    "id": "1994",
+    "code": "RNC",
+    "name": "RNC (REINO)"
+  },
+  {
+    "id": "66739",
+    "code": "RND",
+    "name": "RND (RENDER)"
+  },
+  {
+    "id": "290",
+    "code": "RANK-PROGRESS",
+    "name": "RNK (RANKPROGR)"
+  },
+  {
+    "id": "125974",
+    "code": "ROB",
+    "name": "ROB (ROBYG)"
+  },
+  {
+    "id": "126841",
+    "code": "ROBA",
+    "name": "ROBA (ROBYG-PDA)"
+  },
+  {
+    "id": "159",
+    "code": "ROPCZYCE",
+    "name": "RPC (ROPCZYCE)"
+  },
+  {
+    "id": "3994",
+    "code": "RVU",
+    "name": "RVU (RYVU)"
+  },
+  {
+    "id": "255",
+    "code": "RAWLPLUG",
+    "name": "RWL (RAWLPLUG)"
+  },
+  {
+    "id": "123622",
+    "code": "S2B",
+    "name": "S2B (SYN2BIO)"
+  },
+  {
+    "id": "10709",
+    "code": "SANTANDER",
+    "name": "SAN (SANTANDER)"
+  },
+  {
+    "id": "17037",
+    "code": "SCP",
+    "name": "SCP (SCPFL)"
+  },
+  {
+    "id": "87078",
+    "code": "SCW",
+    "name": "SCW (SCANWAY)"
+  },
+  {
+    "id": "421",
+    "code": "SEKO",
+    "name": "SEK (SEKO)"
+  },
+  {
+    "id": "272",
+    "code": "SELENA-FM",
+    "name": "SEL (SELENAFM)"
+  },
+  {
+    "id": "20",
+    "code": "AS-SILVANO-FASHION",
+    "name": "SFG (SILVANO)"
+  },
+  {
+    "id": "157",
+    "code": "SFINKS",
+    "name": "SFS (SFINKS)"
+  },
+  {
+    "id": "85",
+    "code": "SYGNITY",
+    "name": "SGN (SYGNITY)"
+  },
+  {
+    "id": "291",
+    "code": "SOHO-DEVELOPMENT",
+    "name": "SHD (SOHODEV)"
+  },
+  {
+    "id": "343",
+    "code": "STARHEDGE",
+    "name": "SHG (STARHEDGE)"
+  },
+  {
+    "id": "61288",
+    "code": "SHO",
+    "name": "SHO (SHOPER)"
+  },
+  {
+    "id": "44737",
+    "code": "SIM",
+    "name": "SIM (SIMFABRIC)"
+  },
+  {
+    "id": "68",
+    "code": "SNIEZKA",
+    "name": "SKA (SNIEZKA)"
+  },
+  {
+    "id": "10590",
+    "code": "SKARBIEC-HOLDING",
+    "name": "SKH (SKARBIEC)"
+  },
+  {
+    "id": "226",
+    "code": "SKYLINE-INVESTMENT",
+    "name": "SKL (SKYLINE)"
+  },
+  {
+    "id": "39805",
+    "code": "SLV",
+    "name": "SLV (SELVITA)"
+  },
+  {
+    "id": "413",
+    "code": "SNK",
+    "name": "SNK (SANOK)"
+  },
+  {
+    "id": "4174",
+    "code": "SYNEKTIK",
+    "name": "SNT (SYNEKTIK)"
+  },
+  {
+    "id": "152",
+    "code": "SANWIL-HOLDING",
+    "name": "SNW (SANWIL)"
+  },
+  {
+    "id": "4494",
+    "code": "SUNEX",
+    "name": "SNX (SUNEX)"
+  },
+  {
+    "id": "385",
+    "code": "SONEL",
+    "name": "SON (SONEL)"
+  },
+  {
+    "id": "4485",
+    "code": "SOPHARMA",
+    "name": "SPH (SOPHARMA)"
+  },
+  {
+    "id": "42874",
+    "code": "SPR",
+    "name": "SPR (SPYROSOFT)"
+  },
+  {
+    "id": "344",
+    "code": "STALPROFIL",
+    "name": "STF (STALPROFI)"
+  },
+  {
+    "id": "383",
+    "code": "STALPRODUKT",
+    "name": "STP (STALPROD)"
+  },
+  {
+    "id": "2223",
+    "code": "STS",
+    "name": "STS (SATIS)"
+  },
+  {
+    "id": "206",
+    "code": "STALEXPORT-AUTOSTRADY",
+    "name": "STX (STALEXP)"
+  },
+  {
+    "id": "4142",
+    "code": "SVE",
+    "name": "SVE (SNTVERSE)"
+  },
+  {
+    "id": "30144",
+    "code": "SVRS",
+    "name": "SVRS (SILVAIR-REGS)"
+  },
+  {
+    "id": "285",
+    "code": "SECO-WARWICK",
+    "name": "SWG (SECOGROUP)"
+  },
+  {
+    "id": "8357",
+    "code": "TARCZYNSKI",
+    "name": "TAR (TARCZYNSKI)"
+  },
+  {
+    "id": "15212",
+    "code": "TBL",
+    "name": "TBL (TBULL)"
+  },
+  {
+    "id": "27169",
+    "code": "TEN",
+    "name": "TEN (TSGAMES)"
+  },
+  {
+    "id": "57286",
+    "code": "THG",
+    "name": "THG (TENDERHUT)"
+  },
+  {
+    "id": "417",
+    "code": "TALEX",
+    "name": "TLX (TALEX)"
+  },
+  {
+    "id": "6982",
+    "code": "TATRY-MOUNTAIN-RESORTS",
+    "name": "TMR (TATRY)"
+  },
+  {
+    "id": "4235",
+    "code": "TOYA",
+    "name": "TOA (TOYA)"
+  },
+  {
+    "id": "10172",
+    "code": "TORPOL",
+    "name": "TOR (TORPOL)"
+  },
+  {
+    "id": "14505",
+    "code": "TOW",
+    "name": "TOW (TOWERINVT)"
+  },
+  {
+    "id": "231",
+    "code": "TAURON",
+    "name": "TPE (TAURONPE)"
+  },
+  {
+    "id": "301",
+    "code": "TRITON-DEVELOPMENT",
+    "name": "TRI (TRITON)"
+  },
+  {
+    "id": "186",
+    "code": "TRAKCJA",
+    "name": "TRK (TRAKCJA)"
+  },
+  {
+    "id": "2576",
+    "code": "TRANS-POLONIA",
+    "name": "TRN (TRANSPOL)"
+  },
+  {
+    "id": "6966",
+    "code": "TERMO-REX",
+    "name": "TRR (TERMOREX)"
+  },
+  {
+    "id": "319",
+    "code": "TESGAS",
+    "name": "TSG (TESGAS)"
+  },
+  {
+    "id": "9537",
+    "code": "TXT",
+    "name": "TXT (TEXT)"
+  },
+  {
+    "id": "15773",
+    "code": "UNICREDIT",
+    "name": "UCG (UNICREDIT)"
+  },
+  {
+    "id": "28276",
+    "code": "ULG",
+    "name": "ULG (ULTGAMES)"
+  },
+  {
+    "id": "87",
+    "code": "ULMA-CONSTRUCCION",
+    "name": "ULM (ULMA)"
+  },
+  {
+    "id": "3191",
+    "code": "UNF",
+    "name": "UNF (UNFOLD)"
+  },
+  {
+    "id": "238",
+    "code": "UNIBEP",
+    "name": "UNI (UNIBEP)"
+  },
+  {
+    "id": "6967",
+    "code": "UNIMOT-GAZ",
+    "name": "UNT (UNIMOT)"
+  },
+  {
+    "id": "64615",
+    "code": "URT",
+    "name": "URT (URTESTE)"
+  },
+  {
+    "id": "10693",
+    "code": "VGO",
+    "name": "VGO (VIGOPHOTN)"
+  },
+  {
+    "id": "350",
+    "code": "VINDEXUS",
+    "name": "VIN (VINDEXUS)"
+  },
+  {
+    "id": "3575",
+    "code": "VOTUM",
+    "name": "VOT (VOTUM)"
+  },
+  {
+    "id": "4394",
+    "code": "VOXEL",
+    "name": "VOX (VOXEL)"
+  },
+  {
+    "id": "59308",
+    "code": "VRC",
+    "name": "VRC (VERCOM)"
+  },
+  {
+    "id": "39",
+    "code": "VRG",
+    "name": "VRG"
+  },
+  {
+    "id": "6453",
+    "code": "VIVID-GAMES",
+    "name": "VVD (VIVID)"
+  },
+  {
+    "id": "217",
+    "code": "WASKO",
+    "name": "WAS (WASKO)"
+  },
+  {
+    "id": "94",
+    "code": "WIKANA",
+    "name": "WIK (WIKANA)"
+  },
+  {
+    "id": "229",
+    "code": "WIELTON",
+    "name": "WLT (WIELTON)"
+  },
+  {
+    "id": "11712",
+    "code": "WIRTUALNA-POLSKA",
+    "name": "WPL (WIRTUALNA)"
+  },
+  {
+    "id": "63121",
+    "code": "WPR",
+    "name": "WPR (WOODPCKR)"
+  },
+  {
+    "id": "12861",
+    "code": "WTN",
+    "name": "WTN (WITTCHEN)"
+  },
+  {
+    "id": "328",
+    "code": "WAWEL",
+    "name": "WWL (WAWEL)"
+  },
+  {
+    "id": "134",
+    "code": "WARIMPEX",
+    "name": "WXF (WARIMPEX)"
+  },
+  {
+    "id": "2355",
+    "code": "XPLUS",
+    "name": "XPL (XPLUS)"
+  },
+  {
+    "id": "14079",
+    "code": "XTB",
+    "name": "XTB"
+  },
+  {
+    "id": "17216",
+    "code": "XTP",
+    "name": "XTP (XTPL)"
+  },
+  {
+    "id": "9854",
+    "code": "YAN",
+    "name": "YAN (YANOSIK)"
+  },
+  {
+    "id": "101",
+    "code": "YARRL",
+    "name": "YRL (YARRL)"
+  },
+  {
+    "id": "101130",
+    "code": "ZAB",
+    "name": "ZAB (ZABKA)"
+  },
+  {
+    "id": "199",
+    "code": "ZAKLADY-AZOTOWE-PULAWY",
+    "name": "ZAP (PULAWY)"
+  },
+  {
+    "id": "7002",
+    "code": "ZEPAK",
+    "name": "ZEP (ZEPAK)"
+  },
+  {
+    "id": "4393",
+    "code": "ZAMET-INDUSTRY",
+    "name": "ZMT (ZAMET)"
+  },
+  {
+    "id": "288",
+    "code": "ZREMB-CHOJNICE",
+    "name": "ZRE (ZREMB)"
+  },
+  {
+    "id": "3424",
+    "code": "ZUE",
+    "name": "ZUE"
+  },
+  {
+    "id": "263",
+    "code": "STAPORKOW",
+    "name": "ZUK (STAPORKOW)"
+  }
+]

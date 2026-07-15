@@ -1,0 +1,9 @@
+{
+  "name": "gpw-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Daily GPW quotes exporter",
+  "scripts": {
+    "fetch-quotes": "node fetch_quotes.js"
+  }
+}

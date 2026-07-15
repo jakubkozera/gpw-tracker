@@ -1,0 +1,33 @@
+name: Fetch GPW quotes
+
+on:
+  schedule:
+    # 17:17 CEST = 15:17 UTC. GitHub Actions cron uses UTC.
+    - cron: "17 15 * * 1-5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-quotes:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Fetch quotes
+        run: npm run fetch-quotes
+
+      - name: Commit CSV
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add quotes/ quotes-*.zip
+          git diff --cached --quiet || git commit -m "Update GPW quotes"
+          git push
